@@ -1,0 +1,23 @@
+body{
+    background-color:#6B8E23;
+}
+h1{
+    
+}    
+h2{
+    font-family: 'KoHo', sans-serif;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    color:white;
+}
+img{
+    width:200px;
+}
+li{
+    color:white;
+    font-size:17px;
+}
+img{
+    border:solid;   
+}
